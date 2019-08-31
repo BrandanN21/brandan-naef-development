@@ -1120,11 +1120,11 @@ blockquote span img {
 	height: 100%;
 	top: 0;
 	left: 55px;
-	background: #f0f1f5;
+	/* background: #f0f1f5; */
 }
 
 .pt-about .inter-icon:hover {
-	background: #f0f1f5;
+	/* background: #f0f1f5; */
 }
 
 .pt-about .inter-icon i {
