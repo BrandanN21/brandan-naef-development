@@ -20,11 +20,11 @@ a:focus,
 .blog-page .blog-heading i,
 .blog-page .blog-comments ul li .comment-text span,
 .pt-about .inter-icon i {
-	color: #e27d60 !important;
+	color: red !important;
 }
 
 .btn-st:after {
-	background: #e27d60 !important;
+	background: red !important;
 }
 
 .page .header-page:after,
@@ -45,52 +45,52 @@ a:focus,
 .blog-page .header-box h3:before,
 .page .header-box h3:after,
 .blog-page .header-box h3:after {
-	background-color: #e27d60 !important;
+	background-color: red !important;
 }
 
 .pt-about .info-icon i,
 .pt-about .service:hover i:after,
 .pt-about .price:hover i:after {
-	border: 1px solid #e27d60 !important;
+	border: 1px solid red !important;
 }
 
 .pt-home .lang ul li a.active {
-	border-bottom: 1px solid #e27d60 !important;
+	border-bottom: 1px solid red !important;
 }
 
 .page .header-page span:before,
 .page .header-page span:after,
 .pt-resume .experience .main h4:before {
-    border: 2px solid #e27d60 !important;
+    border: 2px solid red !important;
 }
 
 .page .header-box:before,
 .blog-page .header-box:before,
 .pt-resume .skill-item .progress .progress-bar:after {
-    border: 3px solid #e27d60 !important;
+    border: 3px solid red !important;
 }
 
 .pt-blog .blog-item .thumbnail .btn-play:hover:after {
-	border-color: transparent transparent transparent #e27d60 !important;
+	border-color: transparent transparent transparent red !important;
 }
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-	border-bottom: 1px solid #e27d60 !important;
+	border-bottom: 1px solid red !important;
 }
 
 #preloader.loaded .loading-area .circle {
-	border-top-color: #e27d60 !important;
+	border-top-color: red !important;
 }
 
 @media screen and (max-width: 991px) {
     .single-wp.process-1,
     .single-wp.process-3 {
-        border-right: 1px solid #e27d60 !important;
+        border-right: 1px solid red !important;
     }
     .single-wp.process-1,
     .single-wp.process-2 {
-        border-bottom: 1px solid #e27d60 !important;
+        border-bottom: 1px solid red !important;
     }
 }
 
@@ -98,11 +98,11 @@ a:focus,
 	.single-wp.process-1,
     .single-wp.process-3 {
 		border-bottom: none !important;
-        border-right: 1px solid #e27d60 !important;
+        border-right: 1px solid red !important;
     }
     .single-wp.process-2,
     .single-wp.process-4 {
 		border-bottom: none !important;
-        border-left: 1px solid #e27d60 !important;
+        border-left: 1px solid red !important;
     }
 }
