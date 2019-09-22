@@ -1,5 +1,5 @@
 <?php
-	$to = "you-email@example.com";
+	$to = "blnaef99@gmail.com";
 	$tema = "Title";
 	$message = "Name: ".$_POST['name']."<br>";
 	$message .= "Email: ".$_POST['email']."<br>";
