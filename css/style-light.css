@@ -1234,6 +1234,13 @@ blockquote span img {
 	color: #0e0f10;
 }
 
+.test_link{
+	text-decoration: underline solid red !important;
+}
+.test_link:hover{
+	color:red;
+}
+
 /* Price */
 .pt-about .price {
 	text-align: center;
